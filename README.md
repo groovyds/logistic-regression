@@ -145,7 +145,7 @@ marginally better than that naive baseline.
 |---|---------|--------|
 | 1 | [Linear Regression from Scratch](https://github.com/groovyds/linear-regression) | ✅ Complete |
 | 2 | Logistic Regression from Scratch | ✅ Complete |
-| 3 | PCA Visualiser | 🔄 Up next |
+| 3 | [PCA Visualiser](https://github.com/groovyds/pca-visualizer) | ✅ Complete |
 | 4 | Naive Bayes Classifier | ⏳ Upcoming |
 
 ---
